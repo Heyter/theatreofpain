@@ -1,7 +1,7 @@
 Hey everyone.
 
 
-This is a survival gamemode I made for a comission at the end of 2016 using Nutscript. I got permission to release it so someone can still benefit from this. I worked on it more than 150 hours, so I think it can spare a lot of time to someone who need a similar gamemode or just something exactly like this. 
+This is a survival gamemode I made for a comission at the end of 2016 using Nutscript. I got permission to release it so someone can still benefit from this. Also, I fixed a pair of issues now before releasing it. I worked on it more than 150 hours, so I think it can spare a lot of time to someone who need a similar gamemode or just something exactly like this. 
 
 These are the features:
 
